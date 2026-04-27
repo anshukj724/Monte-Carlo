@@ -1,7 +1,6 @@
-<img width="1000" height="600" alt="Monte Carlo fig 0" src="https://github.com/user-attachments/assets/247c1c3c-dd77-4cbc-95d4-cf9d8cca3d0c" />
+<img width="867" height="545" alt="download" src="https://github.com/user-attachments/assets/b90f9e8d-362a-4387-937a-8b85ca162088" />
 # 📊 Monte Carlo Bitcoin Simulation
 
-<img width="1000" height="600" alt="Monte Carlo fig 0" src="https://github.com/user-attachments/assets/c74fcc1b-07d2-4df4-9d11-f3a0abb89309" />
 
 
 ## 🚀 Overview
@@ -40,9 +39,10 @@ The histogram represents **final portfolio values** after 1 year across 10,000 s
 
 ## 📊 Key Metrics
 
-* Median Outcome → typical expected result
-* 5% VaR → worst-case scenarios (risk insight)
-* Probability > ₹2L → upside potential
+*Median Outcome: ${np.median(final_values):,.0f}
+*5% worst case VaR: ₹43,283
+*Probability of >2L: 41.3%
+
 
 ---
 
