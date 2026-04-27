@@ -1,3 +1,4 @@
+
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -25,7 +26,7 @@ plt.hist(final_values/100000, bins=50, alpha=0.7)
 plt.axvline(1, color='red', linestyle='--', label='Break-even')
 plt.xlabel('Portfolio Value (in Lakhs)')
 plt.ylabel('Frequency')
-plt.title("onte Carlo: 1L in BTC after 1 Year - 10,000 Simulations")
+plt.title("Monte Carlo: 1L in BTC after 1 Year - 10,000 Simulations")
 plt.legend()
 plt.show()
           
