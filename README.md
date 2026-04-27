@@ -1,3 +1,4 @@
+<img width="1000" height="600" alt="Monte Carlo fig 0" src="https://github.com/user-attachments/assets/247c1c3c-dd77-4cbc-95d4-cf9d8cca3d0c" />
 # 📊 Monte Carlo Bitcoin Simulation
 
 <img width="1000" height="600" alt="Monte Carlo fig 0" src="https://github.com/user-attachments/assets/c74fcc1b-07d2-4df4-9d11-f3a0abb89309" />
